@@ -4,7 +4,7 @@ import os
 
 
 load_dotenv()
-
+//añade api
 
 api_key = os.getenv("HUGGINGFACE_API_KEY")
 
